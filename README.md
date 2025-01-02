@@ -42,7 +42,7 @@ Text generation has a wide range of applications, including creative writing, ch
 │       ├── ckpt_8.weights.h5        
 │       ├── ckpt_9.weights.h5        
 │       ├── ckpt_10.weights.h5                
-│   ├── text_generator.py    
+│   ├── text_generator.ipynb    
 ```
 
 ## 📊 Example Results
